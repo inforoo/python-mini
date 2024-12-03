@@ -1,6 +1,6 @@
 import second
 
-print(f"что-то выводит скрипт {__name__}")
+#print(f"что-то выводит скрипт {__name__}")
 
 
 def main():
